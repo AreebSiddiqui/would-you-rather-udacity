@@ -11,8 +11,15 @@ This project is bootstrap with create-react-app, it was Udacity's second project
 * User can answer questions from other users.
 * User can post question.
 
+## How to get Started
+* Make sure you have npm and node installed on your machine.
+* Download the packages with `npm install`
+* Run the project with `npm start`
 
-# To run this app
+## Tech stack 
+* React
+* Redux
+* Html 
+* Css
+* Javascript
 
-yarn install
-yarn start
