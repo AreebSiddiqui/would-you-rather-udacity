@@ -1,6 +1,6 @@
 # Would You Rather 
 
-This project is bootstrap with create-react-app, it was Udacity's second project in React Nano Degree program.
+This project is bootstraped with create-react-app, it was Udacity's second project in React Nano Degree program.
 
 # A walk trough
 
