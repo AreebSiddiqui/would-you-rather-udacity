@@ -51,9 +51,9 @@ class Navigation extends Component {
                 <AppBar position="static" >
                     <Toolbar>  
                         <div className={classes.grow}>
-                            <Button color="inherit"  className="nav-link-button" component={Link} to="/home">Dash Board</Button>
-                            <Button color="inherit" className="nav-link-button" component={Link} to="/newquestion">New Question</Button>
-                            <Button color="inherit" className="nav-link-button" component={Link} to="/leaderboard">Leader Board</Button>
+                            <Button color="inherit"  className="nav-link-button" component={Link} to="/home">Home</Button>
+                            <Button color="inherit" className="nav-link-button"  component={Link} to="/newquestion">New Question</Button>
+                            <Button color="inherit" className="nav-link-button"  component={Link} to="/leaderboard">Leader Board</Button>
                         </div>  
                         {
                             loggedInUser? (

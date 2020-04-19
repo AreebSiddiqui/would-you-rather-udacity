@@ -27,7 +27,7 @@ class Home extends Component {
         const { authedUser} = this.props;
 
         if(!authedUser){
-            return <Redirect to="/login" />
+            return <Redirect to="/login"/>
         }
 
 
